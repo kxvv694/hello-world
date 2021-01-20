@@ -1,0 +1,7 @@
+a = 2           # integer
+b = 5.0         # float
+c = 'word'      # string
+d = 4 > 5       # boolean (True or False)
+e = None        # special built-in value to create a variable that has not been set to anything specific
+print(a, b, c, d, e)
+print(a, 'is of type', type(a)) # to check the type of a variable
